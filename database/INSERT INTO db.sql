@@ -1,0 +1,1 @@
+INSERT INTO db.usuarios(ID, USUARIO, PASSWORD)VALUES(NULL,'zhaoliang','Amituofo92*')
